@@ -126,7 +126,7 @@ class _ChildServicesState extends State<ChildServices> {
                               mainAxisSize: MainAxisSize.min,
                               children: [
                                 Text(
-                                  'احمد',
+                                  data.name,
                                   style: GoogleFonts.inter(
                                     fontSize: 20.sp,
                                     fontWeight: FontWeight.bold,
